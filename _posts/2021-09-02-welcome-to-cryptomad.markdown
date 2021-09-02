@@ -14,7 +14,7 @@ physically, some online, some both.
 Madrid has gained critical mass on applied cryptographers in the past few years.
 Our goal is to form community, and foster collaboration.
 
-We will be anouncing seminar dates soon. Stay tuned! You can follow us on 
+We will be announcing seminar dates soon. Stay tuned! You can follow us on 
 [twitter](https://www.twitter.com/cryptomad_talks).
 
 <!--
