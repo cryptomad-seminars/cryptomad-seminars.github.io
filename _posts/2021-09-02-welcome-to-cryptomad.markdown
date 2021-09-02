@@ -1,9 +1,22 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Cryptomad!"
 date:   2021-09-02 14:15:40 +0200
-categories: jekyll update
+categories: cryptomad update
 ---
+This is our very first post. Welcome!
+
+We will be hosting seminars on applied cryptography, taught by cryptographers in
+the area of Madrid, Spain. Although, hopefully, we will eventually host 
+international speakers from time to time.
+
+Madrid has gained critical mass on applied cryptographers in the past few years.
+Our goal is to form community, and foster collaboration.
+
+We will be anouncing seminar dates soon. Stay tuned! You can follow us on 
+[twitter](https://www.twitter.com/cryptomad_talks).
+
+<!--
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
@@ -26,4 +39,5 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[jekyll-talk]: https://talk.jekyllrb.com/ 
+-->
