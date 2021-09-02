@@ -8,7 +8,7 @@ This is our very first post. Welcome!
 
 We will be hosting seminars on applied cryptography, taught by cryptographers in
 the area of Madrid, Spain. Although, hopefully, we will eventually host 
-international speakers from time to time. Some seminars will be held physically,
+international speakers from time to time. Some sessions will be held physically,
 some online, some both.
 
 Madrid has gained critical mass on applied cryptographers in the past few years.
