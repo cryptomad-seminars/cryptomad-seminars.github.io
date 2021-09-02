@@ -1,1 +1,0 @@
-# Cryptomad Seminars website
